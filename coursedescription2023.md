@@ -5,7 +5,7 @@ This course is a general introduction to IT-security.
 Make sure that you read all the following carefully.
 
 ## Expectation and preparation for ITS
-A significant part of the course is build on material from CompSys. If you feel the this material is a bit far away it is recommended to shortly recap this. The course book (TO) does include short background on some (but not all) parts, however if want to have the full understanding you need to consult the material from CompSys as needed.
+A significant part of the course is build on material from CompSys. If you feel the this material is a bit far away it is recommended to shortly recap this. The course book does include short background on some (but not all) parts, however if want to have the full understanding you need to consult the material from CompSys as needed.
 
 ## Lectures
 
@@ -37,10 +37,10 @@ Exercises are held weekly and will include help getting started on the assignmen
 
 ## Teaching Material
 
- * [TO] Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition by Paul C. van Oorschot. Springer, 2021.
+ * [PO] Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition by Paul C. van Oorschot. Springer, 2021.
  * Some notes and book chapters that will be made available through the detailed course schedule.
 
-SB available at Academic Books at Biocenteret (http://www.academicbooks.dk/) and https://people.scs.carleton.ca/~paulv/toolsjewels.html.
+PO available at Academic Books at Biocenteret (http://www.academicbooks.dk/) and https://people.scs.carleton.ca/~paulv/toolsjewels.html.
 
 ## Assignment
 
