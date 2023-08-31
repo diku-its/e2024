@@ -5,14 +5,12 @@ This course is a general introduction to IT-security.
 Make sure that you read all the following carefully.
 
 ## Expectation and preparation for ITS
-A significant part of the course is build on material from CompSys. If you feel the this material is a bit far away it is recommended to shortly recap this. The course book does include short background on some (but not all) parts, however if want to have the full understanding you need to consult the material from CompSys as needed.
+A significant part of the course is build on material from CompSys. If you feel this material is a bit far away it is recommended to shortly recap this. The course book does include a short background on some (but not all) parts, however, if you want to have the full understanding, you need to consult the material from CompSys as needed.
 
 ## Lectures
 
  * Mondays at 10-12 in Aud 02 HCØ, Universitetsparken 5
  * Fridays at 10-12 in AUD 01 AKB, Universitetsparken 13
-
-All lectures will be in Lille UP1. 
 
 Instructors:
   * Martin Elsman (course organiser)
@@ -42,13 +40,13 @@ Exercises are held weekly and will include help getting started on the assignmen
 
 PO available at Academic Books at Biocenteret (http://www.academicbooks.dk/) and https://people.scs.carleton.ca/~paulv/toolsjewels.html.
 
-## Assignment
+## Assignments
 
-There are 6 weekly assignment during the course. Assignments are posted on Mondays. See due dates in lectureplan. 
+There are 6 weekly assignments during the course. Assignments are posted on Mondays. See due dates in lectureplan. 
 
 The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 23 Oct.
 
-All assignment will be in groups up to 3 persons. That means that you can discuss relating material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
+All assignments will be in groups up to 3 persons. That means that you can discuss related material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
 
 Note that all deadlines are Sundays at 16:00.
 
