@@ -1,4 +1,4 @@
-# Lecture and exercise plan for IT-security (ITS) B1 2023/24
+# Lecture and exercise plan for IT-security (ITS) B1 2024/25
 
 This course schedule will be updated as needed.
 
