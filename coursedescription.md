@@ -13,7 +13,7 @@ A significant part of the course is build on material from CompSys. If you feel 
  * Fridays at 10-12 in AUD 01 AKB, Universitetsparken 13
 
 Instructors:
-  * Martin Elsman (course organiser)
+  * James Avery (course organiser)
   * Troels Langkjær
   * Carsten Jørgensen
 
@@ -42,9 +42,9 @@ PO available at Academic Books at Biocenteret (http://www.academicbooks.dk/) and
 
 ## Assignments
 
-There are 6 weekly assignments during the course. Assignments are posted on Mondays. See due dates in lectureplan. 
+There are 6 weekly assignments during the course. Assignments are posted on Mondays. See due dates in lecture plan. 
 
-The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 23 Oct.
+The assignments are pass/fail; expect to have at least 2/3 of an assignment correct to pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 20 Oct.
 
 All assignments will be in groups up to 3 persons. That means that you can discuss related material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
 
