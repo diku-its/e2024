@@ -16,9 +16,9 @@ This course schedule will be updated as needed.
 |      | 17 Sep | 13-17            |         | Exercise class                                            | [Assignment 2](assignments/assignment2.md)
 |      | 20 Sep | 10-12            | CJ      | IT security management and risk assessment 		         | [Risikostyring](https://sikkerdigital.dk/media/6835/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf), [Skabelon til beredskabspolitik] (https://sikkerdigital.dk/Media/637787961326953184/skabelon-til-it-beredskabspolitik-2022.docx) 
 |      | 22 Sep |                  |         | Assignment 2 handin                                       | 
-| 39   | 23 Sep | 10-12            | TL      | Software security - exploits and privilege escalation     | PO 6
+| 39   | 23 Sep | 10-12            | TL      | Malicious software                                        | PO 7
 |      | 24 Sep | 13-17            |         | Exercise class                                            | [Assignment 3](assignments/assignment3.md)
-|      | 27 Sep | 10-12            | TL      | Malicious software                                        | PO 7
+|      | 27 Sep | 10-12            | TL      | Software security - exploits and privilege escalation     | PO 6
 |      | 29 Oct |                  |         | Assignment 3 handin                                       | 
 | 40   | 30 Oct | 10-12            | CJ      | Firewalls and tunnels, security architecture              | PO 10
 |      | 01 Oct | 13-17            |         | Exercise class                                            | [Assignment 4](assignments/assignment4.md)
