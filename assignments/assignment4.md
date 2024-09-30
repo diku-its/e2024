@@ -10,7 +10,7 @@ Describe your observations in a short report.
 
 ## Short answer questions
 
-1. What is a default-deny firewall rulesets, and which security principle relates to it?
+1. What is a default-deny firewall ruleset, and which security principle relates to it?
 
 2. Can a host firewall block malware from communicating from an infected computer back to its controller on the internet?
 
