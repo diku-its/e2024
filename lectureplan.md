@@ -22,7 +22,7 @@ This course schedule will be updated as needed.
 |      | 29 Oct |                  |         | Assignment 3 handin                                       | 
 | 40   | 30 Oct | 10-12            | CJ      | Firewalls and tunnels, security architecture              | PO 10
 |      | 01 Oct | 13-17            |         | Exercise class                                            | [Assignment 4](assignments/assignment4.md)
-|      | 04 Oct | 10-12            | CJ      | Cloud and IoT security                                    | [Cloud Security Alliance pp.8-35] (https://cloudsecurityalliance.org/download/artifacts/security-guidance-v4)
+|      | 04 Oct | 10-12            | CJ      | Cloud, AI and IoT security                                    | [Cloud Security Alliance pp.8-35] (https://cloudsecurityalliance.org/download/artifacts/security-guidance-v4)
 |      | 06 Oct |                  |         | Assignment 4 handin                                       | 
 | 41   | 07 Oct | 10-12            | TL      | Intrusion detection and network attacks                   | PO 11
 |      | 09 Oct | 13-17            |         | Exercise class                                            | [Assignment 5](assignments/assignment5.md)
